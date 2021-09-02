@@ -1,0 +1,41 @@
+.section4{
+    background-color: #3f78911a;
+    height: 550px;
+}
+/* debut section 5*/
+.mail{
+    border-radius: 50px;
+    margin-left: 220px;
+}
+.bouton{
+    color: white;
+    background-color: #cf8f44;
+    height: 50px;
+    width: 300px;
+  /*  float: right;*/
+    text-align: center;
+    border-radius: 50px;
+    margin-top: 40px;
+    cursor: pointer;
+    padding-top: 12px;
+    font-weight: bold;
+    margin-left: 800px;
+    margin-top: -50px;
+    
+}
+.section5{
+    background-color:#053b54;
+    height: 370px;
+}
+.bloc{
+    padding-top: 100px;
+}
+.app{
+    margin-left: 40px;
+}
+.container{
+    margin-bottom: 200px;
+    display: flex;
+}
+
+
